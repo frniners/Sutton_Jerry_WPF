@@ -2,23 +2,14 @@
 //Sep 09, 2014
 //Expression Wacky
 
-//The Pythagorean Theorem
+//The Pythagorean Theorem - the square of the hypotenuse is equal to the sum of the squares of the other two sides.
 
-var asquared = Number(prompt("Enter the length of leg A"));
-var bsquared = Number(prompt("Enter the length of leg B"));
-var a = Math.pow(asquared, 2);
-var b = Math.pow(bsquared, 1);
+var asquared = Number(prompt("Enter the length of leg A")); //small side of triangle A
+var bsquared = Number(prompt("Enter the length of leg B")); //second side of triangle
+var a = Math.pow(asquared, 2); //side a squared
+var b = Math.pow(bsquared, 2); //side b squared
 
-var pyt = (+a + b);
+var pyt = (+a + b); //adding side and A and B to find what the square of the hypotenuse
 //console.log(cogs); //prints to console
-var result = "The Pythagorean Theorem answer of A squared + B squared is \ " + pyt +" \ squared";
-alert(result);
-
-//var prin = Number(prompt("Enter your Principal amount")); //principal amount of loan or savings
-//var interest = Number(prompt("Enter your Interest rate")); //rate at which you will earn interest on your principal
-//var rate = Number(prompt("Enter your rate(time)")); //time of loan
-
-//var simint = (+prin * (.10 * interest) * rate); //calculates the above info - Simple Interest = Interest earned from principal
-//console.log(cogs); //prints to console
-//var result = "The dollar amount on what Simple Interest you'll earn or pay is roughly" + simint + "";
-//alert(result);
+var result = "The Pythagorean Theorem answer of A squared + B squared is \ " + pyt +" \ squared"; // result of above calculations
+alert(result); //pop up displaying result
