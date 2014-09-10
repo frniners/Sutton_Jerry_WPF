@@ -11,7 +11,7 @@ var b = Math.pow(bsquared, 1);
 
 var pyt = (+a + b);
 //console.log(cogs); //prints to console
-var result = "The Pythagorean Theorem answer of A squared + B squared is \n" + pyt + "";
+var result = "The Pythagorean Theorem answer of A squared + B squared is \n" + pyt +" \n squared";
 alert(result);
 
 //var prin = Number(prompt("Enter your Principal amount")); //principal amount of loan or savings
