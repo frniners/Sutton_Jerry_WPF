@@ -11,5 +11,5 @@ var rate = Number(prompt("Enter your rate(time)")); //time of loan
 
 var simint = (+prin * (.10 * interest) * rate); //calculates the above info - Simple Interest = Interest earned from principal
 //console.log(cogs); //prints to console
-var result = " + simint + ""A rough dollar amount on what Simple Interest you'll earn or pay";
+var result = "The dollar amount on what Simple Interest you'll earn or pay is roughly" + simint + "";
 alert(result);
