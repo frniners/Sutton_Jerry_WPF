@@ -9,7 +9,12 @@ var bsquared = Number(prompt("Enter the length of leg B")); //second side of tri
 var a = Math.pow(asquared, 2); //side a squared
 var b = Math.pow(bsquared, 2); //side b squared
 
-var pyt = (+a + b); //adding side and A and B to find what the square of the hypotenuse
-//console.log(cogs); //prints to console
-var result = "The Pythagorean Theorem answer of A squared + B squared is \ " + pyt +" \ squared"; // result of above calculations
+//adding side and A and B to find what the square of the hypotenuse
+var pyt = (+a + b);
+
+//prints to console
+//console.log(cogs);
+
+// result of above calculations
+var result = "The Pythagorean Theorem answer of A squared + B squared is \ " + pyt +" \ squared";
 alert(result); //pop up displaying result
