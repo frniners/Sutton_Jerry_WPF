@@ -5,9 +5,10 @@
 var time = Number(prompt("What time is it?"));
 
 if (time < 12) {
-    console.log("Good morning");
+    console.log("Good Morning");
 } else if (time === 12) {
-    console.log("Lunch Time");
+    console.log("Lunch Time!!!");
+}
 } else {
-    console.log("Good evening");
+    console.log("Time to get back to work your day is not over");
 }
