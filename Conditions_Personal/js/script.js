@@ -1,3 +1,3 @@
-/**
- * Created by jerrysutton on 9/16/14.
- */
+//Jerry Sutton
+//Sep 18, 2014
+//Conditions Personal
