@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ed8e73-b5b2-4679-be67-05064934d4fe" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditions_Industry/index.html" afterPath="$PROJECT_DIR$/Conditions_Industry/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditions_Industry/js/script.js" afterPath="$PROJECT_DIR$/Conditions_Industry/js/script.js" />
     </list>
     <ignored path="Sutton_Jerry_WPF.iws" />
@@ -25,14 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditions_Industry/js/script.js">
+      <file leaf-file-name="script1.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditions_Industry/js/script1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.45" vertical-offset="0" max-vertical-offset="700">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,11 +73,12 @@
         <option value="$PROJECT_DIR$/Conditions_Personal/imndex.html" />
         <option value="$PROJECT_DIR$/Conditions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Expressions_Industry/index.html" />
-        <option value="$PROJECT_DIR$/Conditions_Industry/index.html" />
         <option value="$PROJECT_DIR$/Conditions_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Conditions_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Conditions_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Conditions_Industry/js/script.js" />
+        <option value="$PROJECT_DIR$/Conditions_Industry/index.html" />
+        <option value="$PROJECT_DIR$/Conditions_Industry/js/script1.js" />
       </list>
     </option>
   </component>
@@ -410,14 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditions_Industry/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="676">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22189349" vertical-offset="0" max-vertical-offset="676">
@@ -490,11 +482,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditions_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22189349" vertical-offset="0" max-vertical-offset="676">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditions_Industry/js/script1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45" vertical-offset="0" max-vertical-offset="700">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
