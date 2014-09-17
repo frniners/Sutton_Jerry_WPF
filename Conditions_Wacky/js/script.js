@@ -4,14 +4,17 @@
 
 var grade = prompt("What is your grade?");
 var minGrade = 70;
+var lowGrade < 69;
 
-    console.log("Your grade is: " + (grade >= 90 ? "Excellent!": (grade > 50? "Average" : "Needs to be improved")) );
-    console.log("You have until " + months + " to get it corrected");
 
-/*if(minGrade < 70){
+
+if(minGrade < 70){
     console.log("You have until June to get it up");
-}else{
+    console.log("Your grade is: " + (grade >= 90 ? "Excellent!": (grade > 70? "Average" : "Needs to be improved")) );
+}else if(lowGrade >70){
     console.log("Keep up the great work!");
-}*/
+}else{
+    console.log("You need to input a grade");
+}
 
 
