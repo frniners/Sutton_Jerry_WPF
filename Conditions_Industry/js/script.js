@@ -1,6 +1,6 @@
 //Jerry Sutton
 //Sep 18, 2014
-//Conditions Personal
+//Conditions Industry
 
 
     var n = prompt("Enter a first number"); //Random number
